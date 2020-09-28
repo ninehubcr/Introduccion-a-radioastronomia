@@ -6,4 +6,12 @@ Github para el curso de Introducción a Radioastronomía - HC01, del NINE Hub Co
 - [Descripción del Curso](https://docs.google.com/document/d/1brcrElhjgOON2S5LKk8zMUHPNs5LUYxZcFZJRHKDOos/edit?usp=sharing)
 
 ## Presentaciones
-- [¿Qué es Radioastronomía? Historia de la Radioastronomía. El Universo en Longitudes de onda de radio. Radiotelescopios en el mundo](https://docs.google.com/presentation/d/1HWzHJo0XULsI6PAFRlfuiwgUiJ2hy-QH8OlTQbYkYSM/edit?usp=sharing)
+- TBD
+
+## Materiales y Adjuntos
+Dr. Esteban Araya, Western Illinois University, EEUU. Formación Estelar
+- [Hand On Activity Reduction on Arecibo](https://drive.google.com/file/d/1L6GWmpgh-8w5wOspckNvKaGdiutmvB3V/view)
+
+Dr. Aldo Batta, Instituto Nacional de Astrofísica, Óptica y Electrónica, México
+- [EHT Results I](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7/pdf)
+- [EHT Results IV](https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85/pdf)
