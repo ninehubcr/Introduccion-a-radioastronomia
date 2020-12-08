@@ -5,10 +5,13 @@ Github para el curso de Introducción a Radioastronomía - HC01, del NINE Hub Co
 
 - [Descripción del Curso](https://docs.google.com/document/d/1brcrElhjgOON2S5LKk8zMUHPNs5LUYxZcFZJRHKDOos/edit?usp=sharing)
 
-## Presentaciones
-- TBD
 
 ## Materiales y Adjuntos
+
+### Introducción a Radioastronomía
+- [Breve introducción a Radioastronomía](https://docs.google.com/document/d/1JIoppTtYzFXCO3_0i6gvoz6swMLGO37uAzJ8pSiEwjc/edit?usp=sharing)
+
+### Materiales compartidos por los instructores
 Dr. Esteban Araya, Western Illinois University, EEUU. Formación Estelar
 - [Hand On Activity Reduction on Arecibo](https://drive.google.com/file/d/1L6GWmpgh-8w5wOspckNvKaGdiutmvB3V/view)
 
