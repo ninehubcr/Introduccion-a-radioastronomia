@@ -9,6 +9,7 @@ Github para el curso de Introducción a Radioastronomía - HC01, del NINE Hub Co
 ## Materiales y Adjuntos
 
 ### Introducción a Radioastronomía
+- [Videos del curso](https://www.youtube.com/watch?v=WHIkgMVe_mQ&list=PLOCSC8e-UoQW_3tkbvHuf6jZkQEf91X3J&ab_channel=NINEHub)
 - [Breve introducción a Radioastronomía](https://docs.google.com/document/d/1JIoppTtYzFXCO3_0i6gvoz6swMLGO37uAzJ8pSiEwjc/edit?usp=sharing)
 
 ### Materiales compartidos por los instructores
